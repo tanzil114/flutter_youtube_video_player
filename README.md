@@ -1,16 +1,6 @@
-# proj
+# Flutter Youtube Video Player
 
-A new Flutter project.
+This repo demonstrates how to use YoutubeVideoPlayer package (https://pub.dev/packages/youtube_player_flutter) to add Youtube video playing functionality in a Flutter app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please visit this post for step-by-step tutorial
+https://tanzeelhassan.medium.com/how-to-use-youtube-video-player-in-flutter-e11138c5da72
